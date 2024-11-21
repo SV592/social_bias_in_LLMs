@@ -76,6 +76,6 @@ Language models trained on large internet datasets are susceptible to encoding a
    python evaluate_bias.py
 
 ## Authors
-Shaquille Pearson (https://www.linkedin.com/in/shaquille-pearson-47bb5a208/)
-Akinbowale Akin-Taylor (https://www.linkedin.com/in/akintaylor/)
+- Shaquille Pearson (https://www.linkedin.com/in/shaquille-pearson-47bb5a208/)
+- Akinbowale Akin-Taylor (https://www.linkedin.com/in/akintaylor/)
 
